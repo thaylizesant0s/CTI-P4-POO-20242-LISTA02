@@ -57,6 +57,6 @@ Caso prefira usar o terminal:
     ```bash
     java NomeDoArquivo
     ```
--
+_
 
 **Obrigada por visitar o repositório!**
