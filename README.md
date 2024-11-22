@@ -57,6 +57,13 @@ Caso prefira usar o terminal:
     ```bash
     java NomeDoArquivo
     ```
-_
+    
+---
 
-**Obrigada por visitar o repositório!**
+## 💬 **Obrigado por visitar o repositório!**
+
+Agradecemos o seu interesse. Sinta-se à vontade para explorar, contribuir ou deixar sugestões. 🙂
+
+---
+
+
