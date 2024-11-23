@@ -37,13 +37,13 @@ Caso prefira usar o terminal:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/repo.git
+    git clone https://github.com/thaylizesant0s/CTI-P4-POO-20242-LISTA02.git
     ```
 
 2. Navegue até o diretório do repositório:
 
     ```bash
-    cd repo
+    cd CTI-P4-POO-20242-LISTA02
     ```
 
 3. Compile o arquivo Java:
