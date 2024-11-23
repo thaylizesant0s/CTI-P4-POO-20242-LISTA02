@@ -61,8 +61,10 @@ Caso prefira usar o terminal:
 
 ## 💬 **Obrigado por visitar o repositório!**
 
-Agradecemos o seu interesse. Sinta-se à vontade para explorar, contribuir ou deixar sugestões. 🙂
+<small>Agradecemos o seu interesse. Sinta-se à vontade para explorar, contribuir ou deixar sugestões. 🙂</small>
+
 ---
+
 
 
 
