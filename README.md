@@ -26,33 +26,33 @@ As soluções estão divididas entre os seguintes capítulos:
 
 ### Opção 1: Usando um Editor de Código
 
-1. Clone este repositório para sua máquina local.
-2. Abra o arquivo desejado em um editor de código como **IntelliJ IDEA**, **Eclipse** ou **Visual Studio Code**.
-3. Compile e execute os arquivos Java para testar os algoritmos.
+**1.** Clone este repositório para sua máquina local.
+**2.** Abra o arquivo desejado em um editor de código como **IntelliJ IDEA**, **Eclipse** ou **Visual Studio Code**.
+**3.** Compile e execute os arquivos Java para testar os algoritmos.
 
 ### Opção 2: Usando o Terminal
 
 Caso prefira usar o terminal:
 
-1. Clone o repositório:
+**1.** Clone o repositório:
 
     ```bash
     git clone https://github.com/thaylizesant0s/CTI-P4-POO-20242-LISTA02.git
     ```
 
-2. Navegue até o diretório do repositório:
+**2.** Navegue até o diretório do repositório:
 
     ```bash
     cd CTI-P4-POO-20242-LISTA02
     ```
 
-3. Compile o arquivo Java:
+**3.** Compile o arquivo Java:
 
     ```bash
     javac NomeDoArquivo.java
     ```
 
-4. Execute o programa:
+**4.** Execute o programa:
 
     ```bash
     java NomeDoArquivo
