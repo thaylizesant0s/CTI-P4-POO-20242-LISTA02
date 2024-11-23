@@ -20,7 +20,7 @@ As soluções estão divididas entre os seguintes capítulos:
   Este capítulo aborda como os algoritmos podem tomar decisões baseadas em condições, incluindo **estruturas condicionais simples** e **compostas**.
 
 - **Capítulo 5: Estruturas de Repetição**  
-  O foco aqui são as estruturas que permitem repetir blocos de código com base em condições, como os loops **FOR**, **WHILE** e **DO-WHILE**.
+  O foco aqui são as estruturas que permitem repetir blocos de código com base em condições, como os loops **FOR** e **WHILE**.
 
 ## 🔧 **Como Utilizar**
 
