@@ -25,10 +25,10 @@ As soluções estão divididas entre os seguintes capítulos:
 ## 🔧 **Como Utilizar**
 
 ### Opção 1: Usando um Editor de Código
-
 **1.** Clone este repositório para sua máquina local.
 **2.** Abra o arquivo desejado em um editor de código como **IntelliJ IDEA**, **Eclipse** ou **Visual Studio Code**.
 **3.** Compile e execute os arquivos Java para testar os algoritmos.
+
 
 ### Opção 2: Usando o Terminal
 
