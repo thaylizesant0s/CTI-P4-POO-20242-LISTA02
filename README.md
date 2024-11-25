@@ -1,10 +1,87 @@
-# 📘 **Resolução das Questões - Capítulos 4 e 5 - Fundamentos da Programação de Computadores (3ª Edição)**
+# 📘 Resolução das Questões - Capítulos 4 e 5 - Fundamentos da Programação de Computadores (3ª Edição)
 
-Este repositório contém a resolução das questões dos **Capítulos 4 e 5** do livro *Fundamentos da Programação de Computadores* (3ª Edição), de Ana Fernanda Gomes Ascencio e Edilene Aparecida Veneruchi de Campos. O foco está em conceitos fundamentais de **algoritmos e programação**, utilizando **Java** como linguagem principal, com menções a **Pascal** e **C/C++**.
+Este repositório contém as soluções das questões dos capítulos 4 e 5 do livro **Fundamentos da Programação de Computadores (3ª Edição)**, de **Ana Fernanda Gomes Ascencio** e **Edilene Aparecida Veneruchi de Campos**. Os tópicos abordam conceitos essenciais de algoritmos e programação, com foco em **estruturas condicionais** e **estruturas de repetição**, utilizando **Java** como linguagem principal e referências a **Pascal** e **C/C++**.
 
-As questões abordam **estruturas condicionais** e **estruturas de repetição**, apresentadas de forma didática para facilitar a compreensão e a aplicação prática dos conceitos.
+As soluções são apresentadas de forma prática e didática, facilitando o aprendizado e aplicação dos conceitos.
 
-## 👨‍💻 **Equipe Responsável**
+---
+
+## 📂 Estrutura do Repositório
+
+O repositório está organizado da seguinte forma:
+
+- **Capítulo 4**: Diretório chamado `capitulo4`, contendo arquivos nomeados como `Q01`, `Q02`, ..., `Q25`, onde cada arquivo corresponde a uma questão.
+- **Capítulo 5**: Diretório chamado `capitulo5`, contendo arquivos nomeados como `EXE01`, `EXE02`, ..., `EXE25`.
+
+---
+
+## 📖 Conteúdo
+
+### **Capítulo 4: Estruturas Condicionais**
+
+- Introdução às decisões condicionais.
+- Estruturas condicionais simples, compostas e suas variações.
+- Exemplos práticos para facilitar a aplicação dos conceitos.
+
+### **Capítulo 5: Estruturas de Repetição**
+
+- Uso de estruturas de loop como `FOR`, `WHILE` e `DO-WHILE`.
+- Aplicação de repetições em cenários reais.
+- Soluções explicadas passo a passo.
+
+---
+
+## 💻 Como Utilizar este Repositório
+
+### **Opção 1: Usando um Editor de Código**
+
+1. Clone o repositório para sua máquina local:
+
+    ```bash
+    git clone https://github.com/thaylizesant0s/CTI-P4-POO-20242-LISTA02.git
+    ```
+
+2. Abra o repositório no editor de sua preferência (IntelliJ IDEA, Eclipse ou Visual Studio Code).
+
+3. Localize o arquivo correspondente à questão que deseja, com nome como `Q01` ou `EXE01`.
+
+4. Compile e execute para testar.
+
+### **Opção 2: Usando o Terminal**
+
+1. Clone o repositório:
+
+    ```bash
+    git clone https://github.com/thaylizesant0s/CTI-P4-POO-20242-LISTA02.git
+    ```
+
+2. Acesse o diretório:
+
+    ```bash
+    cd CTI-P4-POO-20242-LISTA02
+    ```
+
+3. Navegue até o arquivo da questão desejada (exemplo: `Q01`):
+
+    ```bash
+    cd capitulo4
+    ```
+
+4. Compile o arquivo:
+
+    ```bash
+    javac 'Q01'
+    ```
+
+5. Execute o programa:
+
+    ```bash
+    java 'Q01'
+    ```
+
+---
+
+## 👥 Equipe Responsável
 
 - **Gabriel Vinicius da Silva Correia**  
   GitHub: [gabrielviniciussc](https://github.com/gabrielviniciussc)
@@ -12,59 +89,16 @@ As questões abordam **estruturas condicionais** e **estruturas de repetição**
 - **Thaylize Sherliane Silva Santos**  
   GitHub: [thaylizesant0s](https://github.com/thaylizesant0s)
 
-## 📚 **Conteúdo**
+---
 
-As soluções estão divididas entre os seguintes capítulos:
+## 🛠️ Contribuições
 
-- **Capítulo 4: Estruturas Condicionais**  
-  Este capítulo aborda como os algoritmos podem tomar decisões baseadas em condições, incluindo **estruturas condicionais simples** e **compostas**.
-
-- **Capítulo 5: Estruturas de Repetição**  
-  O foco aqui são as estruturas que permitem repetir blocos de código com base em condições, como os loops **FOR** e **WHILE**.
-
-## 🔧 **Como Utilizar**
-
-### Opção 1: Usando um Editor de Código
-**1.** Clone este repositório para sua máquina local.  
-**2.** Abra o arquivo desejado em um editor de código como **IntelliJ IDEA**, **Eclipse** ou **Visual Studio Code**.  
-**3.** Compile e execute os arquivos Java para testar os algoritmos.
-
-### Opção 2: Usando o Terminal
-
-Caso prefira usar o terminal:
-
-**1.** Clone o repositório:
-
-    ```bash
-    git clone https://github.com/thaylizesant0s/CTI-P4-POO-20242-LISTA02.git
-    ```
-
-**2.** Navegue até o diretório do repositório:
-
-    ```bash
-    cd CTI-P4-POO-20242-LISTA02
-    ```
-
-**3.** Compile o arquivo Java:
-
-    ```bash
-    javac NomeDoArquivo.java
-    ```
-
-**4.** Execute o programa:
-
-    ```bash
-    java NomeDoArquivo
-    ```
+Sugestões e melhorias são sempre bem-vindas!
 
 ---
 
-## 💬 **Obrigado por visitar o repositório!**
+## 💬 Agradecimento
 
-<small>Agradecemos o seu interesse. Sinta-se à vontade para explorar, contribuir ou deixar sugestões. 🙂</small>
+Obrigada por visitar o repositório!
 
----
-
-
-
-
+Explore, aprenda e compartilhe conhecimento!
